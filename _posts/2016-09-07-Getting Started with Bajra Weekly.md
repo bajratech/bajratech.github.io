@@ -44,7 +44,4 @@ Example:
 
   ```
 - Once you are done, you can push it to the repo and submit a pull request
-- You should submit your pull request to **`Loomila Hada`**	
-
-
-
+- You should submit your pull request to **`Loomila Hada`**

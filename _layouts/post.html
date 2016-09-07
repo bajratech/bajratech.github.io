@@ -15,7 +15,8 @@ layout: default
     <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   </div>
-
+  
+  {% if page.author %}
   <div class="author">
     <div>
       <span class="title">Author</span><br/>
@@ -26,6 +27,7 @@ layout: default
     </div>
 
   </div>
+  {% endif %}
   <div class="clear"></div>
 </div>
 
