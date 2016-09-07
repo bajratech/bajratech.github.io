@@ -1,0 +1,45 @@
+#index .title{
+	background-color: #BE273A;
+	text-align: center;
+}
+#index .title img{
+	display: inline-block;
+	margin: 0px;
+}
+
+.footer{
+  	border-top: 1px solid #eee;
+}
+
+.footer span{
+	font-size: 14px;
+    padding-top: 10px;
+    color: #777;
+}
+
+.author{
+	margin-top: 20px;
+	font-size: 16px;
+}
+
+.author div{
+	float: right;
+}
+
+.author .title {
+	font-weight: bold;
+}
+
+.author .name {
+	color: #888;
+}
+.author img{
+	width: 48px;
+	height:48px;
+	margin: 0;
+	margin-right: 10px;
+}
+
+.clear{
+	clear: both;
+}
