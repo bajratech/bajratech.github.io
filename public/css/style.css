@@ -17,6 +17,12 @@
     color: #777;
 }
 
+.share-author{
+	padding-bottom: 25px;
+	border-bottom: 1px solid #eee;
+	margin-bottom: 15px;
+}
+
 .share{
 	float:left;
 }
