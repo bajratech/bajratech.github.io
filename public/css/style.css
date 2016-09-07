@@ -17,6 +17,10 @@
     color: #777;
 }
 
+.share{
+	float:left;
+}
+
 .author{
 	margin-top: 20px;
 	font-size: 16px;
@@ -42,4 +46,8 @@
 
 .clear{
 	clear: both;
+}
+
+.fb-share-button span{
+	vertical-align: text-top !important;
 }
