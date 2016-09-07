@@ -17,13 +17,13 @@ YEAR-MONTH-DAY-title.MARKUP
 
 <div class="author">
   <div>
-  <span class="title">Author</span><br/>
-  <span class="name">Ankur Maharjan</span>
+    <span class="title">Author</span><br/>
+    <span class="name">Ankur Maharjan</span>
 
   </div>
   <div>
-  <img src="{{site.baseurl}}/public/images/author/ankur.jpg">
-</div>
+    <img src="{{site.baseurl}}/public/images/author/ankur.jpg">
+  </div>
 
 </div>
 
