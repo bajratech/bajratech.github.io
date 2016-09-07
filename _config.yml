@@ -4,10 +4,10 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Bajra Weekly
+tagline:             '- Keep Calm and Keep Blogging'
+description:         'Bajra Weekly'
+url:                 http://bajratechnologies.com
 baseurl:             ''
 gems: [jekyll-paginate]
 paginate: 1
@@ -15,9 +15,9 @@ paginate_path: "page:num"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Bajra Technologies
+  url:               http://bajratechnologies.com
+  email:             admin@bajratechnologies.com
 
 # Custom vars
 version:             1.0.0
