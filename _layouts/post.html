@@ -30,15 +30,15 @@ layout: default
   {% endif %}
   <div class="clear"></div>
   <div class="pagination">
-    {% if page.previous.url %}
-    <a class="pagination-item older" title="{{page.previous.title}}" href="{{page.previous.url}}"> &laquo; Prev</a>
-    {% else %}
-    <span class="pagination-item older">Older</span>
-    {% endif %}
-    {% if page.next.url %}
-    <a class="pagination-item newer"  href="{{page.next.url}}" title="{{page.next.title}}">Next &raquo;</a>
+  {% if page.next.url %}
+    <a class="pagination-item newer"  href="{{page.next.url}}" title="{{page.next.title}}"> &laquo; Prev </a>
     {% else %}
     <span class="pagination-item newer">Newer</span>
+    {% endif %}
+    {% if page.previous.url %}
+    <a class="pagination-item older" title="{{page.previous.title}}" href="{{page.previous.url}}">  Next &raquo;</a>
+    {% else %}
+    <span class="pagination-item older">Older</span>
     {% endif %}
   </div>
 
