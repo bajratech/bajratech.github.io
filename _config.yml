@@ -10,7 +10,7 @@ description:         'Bajra Weekly'
 url:                 http://bajratechnologies.com
 baseurl:             ''
 gems: [jekyll-paginate]
-paginate: 1
+paginate: 5
 paginate_path: "page:num"
 
 # About/contact
