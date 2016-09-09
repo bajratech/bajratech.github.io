@@ -104,7 +104,7 @@
 	color: #888;
 }
 
-#index a:hover, #archive a:hover{
+#index a:hover, #archive a:hover, #tag_page a:hover{
 	color: #BE273A;
 }
 

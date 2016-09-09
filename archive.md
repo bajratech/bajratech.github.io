@@ -9,26 +9,25 @@ title: Archive
 	<a href="{{post.url}}">
 		<div class="list">
 
-			{{ post.title }}<br/>
+			Bajra Weekly #{{ post.number }}: {{ post.title }}<br/>
 			<p>
-				{{ post.date | date_to_string }} 
+				{{ post.date | date_to_string }}
+				&nbsp; &nbsp;
+				{% if post.author %}
+				<i class="fa fa-user"></i> {{post.author}}
+				{% endif %}
 			</p>
+
 			<p class="tag">
-				<span>Tags:</span> 
+				<i class="fa fa-tags fa-flip-horizontal"></i> 
 				{% if post.tags %}
 				{% for tag in post.tags %}
 				<a href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a>
 				{% endfor %}
 				{% endif %}
 			</p>
-			<p>
-				{% if post.author %}
-				Author: {{post.author}}
-				{% endif %}
-			</p>
-
-
 		</div>
 	</a>
+
 	{% endfor %}
 </div>
