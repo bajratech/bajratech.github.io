@@ -8,6 +8,7 @@
 }
 
 .footer{
+	margin-top: 20px;
   	border-top: 1px solid #eee;
 }
 
@@ -61,3 +62,57 @@
 .fb-share-button span{
 	vertical-align: initial !important;
 }
+
+.post-date div{
+	float: right;
+}
+
+.post-date a{
+	font-size: 14px;
+	color: #aaa;
+	margin-right: 5px;
+}
+
+.post-date a:hover{
+	color: #BE273A;
+	text-decoration: none;
+}
+
+.list{
+	background-color: #eee;
+	padding: 15px;
+	margin: 5px;
+}
+
+.list:hover{
+	background-color: #ddd;
+}
+
+.list p{
+	font-size: 14px;
+	font-weight: 200;
+	margin: 0;
+	color: #888;
+}
+
+#index a, #tag_page a, #archive a{
+	text-decoration: none;
+}
+
+#index .tag a, #archive .tag a{
+	text-decoration: none;
+	color: #888;
+}
+
+#index a:hover, #archive a:hover, #tag_page a:hover{
+	color: #BE273A;
+}
+
+#index span:hover, #archive span:hover{
+	color: #888;
+}
+
+.justify{
+	text-align: justify;
+}
+

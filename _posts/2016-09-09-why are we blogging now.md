@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+number: 2
 title: Why are we blogging now?
 author: Sushant Bajracharya
 nickname: voyager
