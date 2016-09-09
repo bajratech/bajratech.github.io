@@ -5,7 +5,7 @@ number: 1
 title: Getting Started with Bajra Weekly
 author: Ankur Maharjan
 nickname: ankur
-tags: help sample
+tags: sample
 ---
 
 

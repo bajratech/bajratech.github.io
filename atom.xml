@@ -6,9 +6,9 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.title }} - {{page.tag}}</title>
- <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}{{ site.baseurl }}/"/>
- <!-- <link href="{{ site.url }}{{ site.baseurl }}{{ page.tag }}.html"/> -->
+ <link href="{{ site.baseurl }}/atom.xml" rel="self"/>
+ <link href="{{ site.baseurl }}/"/>
+ <link href="{{ site.baseurl }}{{ page.tag }}.html"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}{{ page.tag }}.html</id>
  <author>
