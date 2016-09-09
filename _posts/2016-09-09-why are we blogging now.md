@@ -4,6 +4,7 @@ comments: true
 title: Why are we blogging now?
 author: Sushant Bajracharya
 nickname: voyager
+tags: bajra-weekly 
 ---
 
 > It always seems impossible until it is done
