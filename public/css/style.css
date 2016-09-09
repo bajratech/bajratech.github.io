@@ -95,19 +95,20 @@
 	color: #888;
 }
 
-#index a, #tag_page a{
+#index a, #tag_page a, #archive a{
 	text-decoration: none;
 }
 
-#index .tag a{
+#index .tag a, #archive .tag a{
 	text-decoration: none;
 	color: #888;
 }
 
-#index span:hover{
-	color: #888;
-}
-
-#index a:hover{
+#index a:hover, #archive a:hover{
 	color: #BE273A;
 }
+
+#index span:hover, #archive span:hover{
+	color: #888;
+}
+

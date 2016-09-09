@@ -4,6 +4,7 @@ comments: true
 title: Getting Started with Bajra Weekly
 author: Ankur Maharjan
 nickname: ankur
+tags: help sample
 ---
 
 
