@@ -1,29 +1,30 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include sidebar.html %}
+  {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
+    content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <img src="{{ site.baseurl }}/public/images/logo_small.png" /> 
+            <!-- <img src="{{ site.baseurl }}/public/images/logo_small.png" />  -->
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
         </div>
       </div>
-
+      
       <div class="container content">
         {{ content }}
       </div>
     </div>
+    
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
@@ -37,13 +38,13 @@
           var target = e.target;
 
           if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
+           sidebar.contains(target) ||
+           (target === checkbox || target === toggle)) return;
 
-          checkbox.checked = false;
+            checkbox.checked = false;
         }, false);
       })(document);
     </script>
   </body>
   
-</html>
+  </html>

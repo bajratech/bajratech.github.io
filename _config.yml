@@ -7,19 +7,25 @@ permalink:           pretty
 title:               Bajra Weekly
 tagline:             '- Keep Calm and Blog On'
 description:         'Bajra Weekly'
-url:                 http://bajratechnologies.com
+url:                 http://blog.bajratechnologies.com
 baseurl:             ''
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll/tagging
 paginate: 5
 paginate_path: "page:num"
 tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
 
+facebook:
+  app_id: 182586012174142
+
 # About/contact
 author:
   name:              Bajra Technologies
-  url:               http://bajratechnologies.com
+  url:               http://blog.bajratechnologies.com
   email:             admin@bajratechnologies.com
 
 # Custom vars
