@@ -9,7 +9,7 @@ layout: default
     <div>
     <i class="fa fa-tags fa-flip-horizontal"></i>
     {% for tag in page.tags %}
-      <a href="{{site.baseurl}}/tag/{{ tag }}">{{ tag | upcase}}</a>
+      <a href="{{site.baseurl}}/tags/#{{ tag }}">{{ tag | upcase}}</a>
     {% endfor %}
   </div>
   </span>

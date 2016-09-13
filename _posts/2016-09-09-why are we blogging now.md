@@ -5,7 +5,7 @@ number: 2
 title: Why are we blogging now?
 author: Sushant Bajracharya
 nickname: voyager
-tags: bajra-weekly 
+tags: bajra-weekly
 coverimg: bajra
 ---
 
