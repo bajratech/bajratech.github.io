@@ -1,0 +1,63 @@
+---
+layout: page
+title: Tags
+permalink: /tags/
+---
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function(event) { 
+    if(window.location.hash) {  
+      var tag = window.location.hash.split('#')[1];
+      filter(tag);
+    }
+  });
+</script>
+
+<div class="tagcloud">
+  <ul class="blog-tags-list">
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
+    {% assign t = tag | first %}
+    {% assign posts = tag | last %}
+    <li class="blog-tag-item" id="{{ t }}-item">
+      <a href onclick="filter('{{ t }}'); return false;">{{ t }} [{{posts.size}}]</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% for tag in site.tags %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
+<div class="blog-list-container hidden" id="{{ t }}-container">
+  {% for post in posts %}
+  {% if post.tags contains t %}
+  <h2><i class="fa fa-tags fa-flip-horizontal"></i> {{ post.tags }}</h2>
+  <div class="card">
+    <div class="profile">
+      <img src="{{site.baseurl}}/public/images/author/{{post.nickname}}.jpg">
+      <div class="description">
+        <p class="name">{{post.author}}</p>
+        <p>{{post.date | date_to_string}}</p>
+      </div>
+      <div class="clear"></div>
+    </div>
+    {% if post.coverimg %}
+    <div class="cover-img">
+      <img  src="{{site.baseurl}}/public/images/posts/{{post.coverimg}}.jpg"/> 
+    </div>
+    {% endif %}
+    <a href="{{ post.url }}" class="heading">Bajra Weekly #{{ post.number }}: {{ post.title }}<br/></a>
+
+    <p class="tag">
+      <i class="fa fa-tags fa-flip-horizontal"></i> 
+      {% if post.tags %}
+      {% for tag in post.tags %}
+      <a href="{{site.baseurl}}/tags/#{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+      {% endif %}
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endfor %}

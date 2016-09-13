@@ -15,7 +15,7 @@
 	margin-top: 15px
 }
 
-.main-cover-title h4{
+.main-cover-title h3{
 	font-weight: bolder;
 	margin: 0;
 	color: #BE273A;
@@ -169,21 +169,32 @@
 	text-decoration: none;
 }
 
-#index .tag a, #archive .tag a, #tag_page .tag a{
+#index .tag a, #archive .tag a, .blog-list-container .tag a{
 	text-decoration: none;
 	color: #888;
 }
 
-#index a:hover, #archive a:hover, #tag_page a:hover{
+#index a:hover, #archive a:hover, .blog-list-container a:hover{
 	color: #BE273A;
 }
 
-#index span:hover, #archive span:hover, #tag_page span:hover{
+#index span:hover, #archive span:hover, .blog-list-container span:hover{
 	color: #888;
 }
 
 .justify{
 	text-align: justify;
+}
+
+.blog-list-container{
+	margin-top: 50px;
+}
+
+.blog-tags-list li.active a {
+	display: inline-block;
+	margin-bottom: 5px;
+	background-color: #555;
+	border-radius: 2px;
 }
 
 .image-wrapper img{
@@ -197,6 +208,10 @@
 }
 
 .tagcloud{
+	margin-top: 20px;
+}
+
+#index .tagcloud{
 	margin-top: 50px;
 }
 
@@ -255,6 +270,21 @@
 	background-color: #fff;
 	border-radius: 100%;
 }
+
+.tagcloud ul li.active a::before {
+	position: absolute;
+	top: 0;
+	left: -15px;
+	z-index: -1;
+	content: '';
+	width: 30px;
+	height: 30px;
+	background-color: #555;/*#3498db;*/
+	border-radius: 50%;
+	-webkit-transition: .2s;
+	transition: .2s;
+}
+
 .tagcloud ul li span {
 	display: block;
 	max-width: 100px;
@@ -264,8 +294,14 @@
 }
 .tagcloud ul li a:hover {
 	background-color: #555;
-	color: #fff;
+	color: #fff !important;
 }
 .tagcloud ul li a:hover::before {
 	background-color: #555;
 }
+
+.hidden {
+	display: none!important;
+	visibility: hidden!important;
+}
+

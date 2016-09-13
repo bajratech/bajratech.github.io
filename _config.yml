@@ -11,13 +11,8 @@ url:                 http://blog.bajratechnologies.com
 baseurl:             ''
 gems: 
   - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll/tagging
 paginate: 5
 paginate_path: "page:num"
-tag_page_layout: tag_page
-tag_page_dir: tag
-tag_permalink_style: pretty
 
 facebook:
   app_id: 182586012174142
@@ -35,3 +30,4 @@ pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
+  Tags: '/tags'
