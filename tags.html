@@ -32,7 +32,7 @@ permalink: /tags/
 <div class="blog-list-container hidden" id="{{ t }}-container">
   {% for post in posts %}
   {% if post.tags contains t %}
-  <h2><i class="fa fa-tags fa-flip-horizontal"></i> {{ post.tags }}</h2>
+  <h2><i class="fa fa-tags fa-flip-horizontal"></i> {{ t }}</h2>
   <div class="card">
     <div class="profile">
       <img src="{{site.baseurl}}/public/images/author/{{post.nickname}}.jpg">
