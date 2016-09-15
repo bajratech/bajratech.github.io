@@ -10,7 +10,7 @@ title: Home
       <h3>Bajra Technologies</h3>
       <h1>Bajra Technologies Blog</h1>
       <p>Understanding Bajra's Technology, Perception and Culture.</p>
-    </div>  
+    </div>
   </div>
 
   <div class="main-heading">
@@ -28,13 +28,13 @@ title: Home
     </div>
     {% if post.coverimg %}
     <div class="cover-img">
-      <img  src="{{site.baseurl}}/public/images/posts/{{post.coverimg}}.jpg"/> 
+      <img  src="{{site.baseurl}}/public/images/posts/{{post.coverimg}}.jpg"/>
     </div>
     {% endif %}
-    <a href="{{ post.url }}" class="heading">Bajra Weekly #{{ post.number }}: {{ post.title }}<br/></a>
+    <a href="{{ post.url }}" class="heading">{% if post.bajra_weekly %} Bajra Weekly #{{ post.number }}: {% endif %}{{ post.title }}<br/></a>
 
     <p class="tag">
-      <i class="fa fa-tags fa-flip-horizontal"></i> 
+      <i class="fa fa-tags fa-flip-horizontal"></i>
       {% if post.tags %}
       {% for tag in post.tags %}
       <a href="{{site.baseurl}}/tags/#{{ tag }}">{{ tag }}</a>
@@ -45,7 +45,7 @@ title: Home
   {% endfor %}
 
   <div class="tagcloud">
-    <h1 class="main-heading">Popular Tags</h1>  
+    <h1 class="main-heading">Popular Tags</h1>
     <ul>
       {% capture tags %}
       {% for tag in site.tags %}
@@ -57,12 +57,12 @@ title: Home
       {% for tag in sortedtags reversed %}
       {% assign tagitems = tag | split: '#' %}
       <li><a href="/tags/#{{ tagitems[1] }}">{{ tagitems[1] }} [{{ tagitems[2] }}]</a></li>
-      {% assign counter=counter | plus:1 %}   
+      {% assign counter=counter | plus:1 %}
       {% if counter >= 10 %}
       {% break %}
       {% endif %}
       {% endfor %}
-    </ul>  
+    </ul>
   </div>
 
   <div class="footer">
