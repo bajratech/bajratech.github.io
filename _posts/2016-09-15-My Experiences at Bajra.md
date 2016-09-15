@@ -3,9 +3,9 @@ layout : post
 comments : true
 number: 4
 title : My Experiences at Bajra
-tags : Experiences Bandipur 
+tags : experiences bandipur 
 author: Samira Sharma
-nickname: Samira
+nickname: samira
 coverimg: samira_coverpic
 ---
 
