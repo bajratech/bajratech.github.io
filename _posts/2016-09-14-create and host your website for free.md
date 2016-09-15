@@ -28,7 +28,7 @@ Simply, we can say that GitHub Pages are the public web pages hosted for free th
 Github serves all your project sites from a personal URL tied to your username or organization.
 
 ```
-`https://your-account.github.io`
+https://your-account.github.io
 ```
 
 Github looks for the web contents on the special branch i.e. gh-pages or master branch of the repository then automatically builds and deploys the site for you. Ok, this is something awesome. This allows you to focus on the content of your sites rather than worrying about building and deploying your site. Now, let’s move on to the interesting section.
