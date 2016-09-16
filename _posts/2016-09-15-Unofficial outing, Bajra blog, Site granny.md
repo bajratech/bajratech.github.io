@@ -12,7 +12,7 @@ coverimg: markhu
 
 Hello beautiful people, it is the end of the week here at Bajra and this is ** drum roll ** Bajra`s first  Bajra Weekly.
 
-First and foremost, I am very excited to let you guys know that Bajra Weekly is official. I want to thank our CEO `Nishant daii` for supporting it and `Ankur`, `Suman`, `Degendra` and `Loomila` for contributing a lot to this platform. I hope that this platform will provide a great opportunity to develop a habit of blogging for BajraBeings.
+First and foremost, I am very excited to let you guys know that Bajra Weekly is official. I want to thank our CEO `Nishant daii` for supporting it and `Ankur`, `Suman`, `Degendra` and `Loomila` for contributing a lot to this platform. I hope this platform will provide a great opportunity to develop a habit of blogging for BajraBeings.
 
 
 I along with few fellow Bajra colleagues took an unofficial outing to tranquil Markhu, Kulekhani for the weekend. We were accompanied by leeches on the route and they kept us motivated to walk quickly. Despite our attempt to keep them at bay, they somehow managed to get inside our shoe and suck some blood out. I am very proud of my co-workers because they got out of their comfort zones, fought their way through the forest trails filled with blood thirsty vampires and for traveling the most dangerous road (to Hetauda). Keep wondering what is so sexy about vampires!!
