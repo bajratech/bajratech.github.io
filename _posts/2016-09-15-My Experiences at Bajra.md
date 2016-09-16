@@ -2,6 +2,8 @@
 layout : post
 comments : true
 title : My Experiences at Bajra
+number: 4
+bajra_weekly: false
 tags : experiences bandipur
 author: Samira Sharma
 nickname: samira

@@ -31,7 +31,7 @@ title: Home
       <img  src="{{site.baseurl}}/public/images/posts/{{post.coverimg}}.jpg"/>
     </div>
     {% endif %}
-    <a href="{{ post.url }}" class="heading">{% if post.bajra_weekly %} Bajra Weekly #{{ post.number }}: {% endif %}{{ post.title }}<br/></a>
+    <a href="{{ post.url }}" class="heading">{% if post.bajra_weekly %} Bajra Weekly {% else %} Blog {% endif %} #{{ post.number }}: {{ post.title }}<br/></a>
 
     <p class="tag">
       <i class="fa fa-tags fa-flip-horizontal"></i>

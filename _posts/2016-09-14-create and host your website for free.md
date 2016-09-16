@@ -2,6 +2,7 @@
 layout: post
 comments: true
 number: 3
+bajra_weekly: false
 title: Create and host your website for free
 author: Ankur Maharjan
 nickname: ankur
