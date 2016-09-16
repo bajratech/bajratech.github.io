@@ -2,6 +2,7 @@
 layout: post
 comments: true
 number: 1
+bajra_weekly: false
 title: Getting Started with Bajra Weekly
 author: Ankur Maharjan
 nickname: ankur

@@ -20,6 +20,8 @@ I along with few of my Bajra colleagues took an unofficial outing to tranquil Ma
             img="/public/images/posts/markhu.jpg"
             title="Markhu, Kulekhani"
             caption="Markhu, Kulekhani" %}
+
+            
 ![alt text](http://1.bp.blogspot.com/_OBZ90VoJqNc/TSw_7rRQuHI/AAAAAAAAFqM/DgDgTAMvsnM/s1600/Stephen%2527s%2Bjungle%2Bpet.jpg "Leech")
 
 
@@ -28,6 +30,11 @@ Finally, Bajra relased its own product `Site Granny`, which monitors website/web
             img="/public/images/posts/Site Granny.png"
             title="Site Granny"
             caption="Beta Site Granny" %}
+
+{% include image.html
+            img="/public/images/posts/site_granny_cake.jpg"
+            title="Site Granny"
+            caption="CAKE!!" %}
 
 At last, have a great weekend to all and you all are awesome. :D :D
 
