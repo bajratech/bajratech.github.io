@@ -10,7 +10,7 @@ nickname: voyager
 coverimg: markhu
 ---
 
-Hello beautiful people, it is the end of the week here at Bajra and this is ** drum roll ** the Bajra`s first  Bajra Weekly.
+Hello beautiful people, it is the end of the week here at Bajra and this is ** drum roll ** Bajra`s first  Bajra Weekly.
 
 First and foremost, I am very excited to let you guys know that Bajra Weekly is official. I want to thank our CEO `Nishant daii` for supporting it and `Ankur`, `Suman`, `Degendra` and `Loomila` for contributing a lot to this platform. I hope that this platform will provide a great opportunity to develop a habit of blogging for BajraBeings.
 
