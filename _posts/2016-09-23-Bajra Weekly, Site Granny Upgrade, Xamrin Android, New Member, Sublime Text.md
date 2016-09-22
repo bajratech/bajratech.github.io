@@ -38,7 +38,7 @@ After waiting a long time, I got an chance to learn **Android** on **Xamarin**. 
             img="/public/images/posts/Xamarin.jpg"
             title="Xamarin"
             caption="Xamarin" %}
-            
+
 
 Yesterday ***Sublime Text 3*** was released with new features. As a developer, I thought it should be included in this blog.
 **Features:**
