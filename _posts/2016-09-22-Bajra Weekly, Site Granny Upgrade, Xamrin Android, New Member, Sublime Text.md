@@ -1,9 +1,9 @@
 ---
 layout : post
-number: 1
+number: 2
 bajra_weekly: true
 comments : true
-title :  Bajra Weekly ,Site Granny Upgrade, Xamrin Android, New Member, Sublime Text 3 New Feature
+title :  Bajra Weekly, Site Granny Upgrade, Xamrin Android, New Member, Sublime Text 3
 tags : Bajra-technologies weekly site-granny new-member xamarin-android sublime
 author: Santosh Prasad Sah
 nickname: santosh
@@ -20,8 +20,8 @@ As we know **Bajra** has release it's own product ***Site Granny***, it was buil
             title="Site Granny"
             caption="Beta Site Granny" %}
 
-Our loving bro `Sanjan daii` returend after a long leave. We all were missing him on his leave. WelCome bro for resuming and filling Bajra life with fun.
-<img src="/public/images/posts/sajan.JPG" width="480">
+Our loving bro `Sanjan daii` returend after a long leave. We all were missing him. WelCome bro for resuming and filling Bajra life with fun.
+<img src="/public/images/posts/sajan.JPG" align="center" width="480">
 
 
 In our **Bajra Beings** one new team member is added in this month.
@@ -38,8 +38,9 @@ After waiting a long time, I got an chance to learn **Android** on **Xamarin**. 
             img="/public/images/posts/Xamarin.jpg"
             title="Xamarin"
             caption="Xamarin" %}
+            
 
-Yesterday *Sublime Text 3* was released with new features. As a developer, I thought it should be included in this blog.
+Yesterday ***Sublime Text 3*** was released with new features. As a developer, I thought it should be included in this blog.
 **Features:**
 1. Build errors are now shown inline, at the location the error occurred. This is done via the new Phantoms API, which allows HTML annotations to be added to the text buffer by plugins.
 
