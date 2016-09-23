@@ -4,7 +4,7 @@ number: 2
 bajra_weekly: true
 comments : true
 title :  Bajra Weekly, Site Granny Upgrade, Xamarin Android, New Member, Sublime Text 3
-tags : Bajra-technologies weekly site-granny new-member xamarin-android sublime
+tags : weekly site-granny new-member xamarin-android sublime
 author: Santosh Prasad Sah
 nickname: santosh
 coverimg: bajra
