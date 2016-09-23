@@ -10,7 +10,7 @@ nickname: chandan
 coverimg: Software Engineering
 ---
 
-<p align="justify">Where does the project ideas come from? The answer is they come from some of the problems, opportunities and directives. The short definitions of problem, opportunity and directive defined for an organization are given below :</p>
+<p align="justify">Where does the project ideas come from? The answer is they come from some of the problems, opportunities and directives. The short definition of problem, opportunity and directive defined for an organization is given below :</p>
 
 <blockquote>
 <p align="justify">Problem: An undesirable situation that prevents the organization from fully achieving its goals or objectives</p>
@@ -33,4 +33,4 @@ coverimg: Software Engineering
  	<li>
 <div align="justify">S : the need to correct or improve ‘service to customers, suppliers, partners, employees and so on’</div></li>
 </ul>
-<p align="justify">The categories mentioned above may overlap. Some problems arise in such a way that their solution may fall on one or all of the categories. So The problem must be identified and solved as per requirements.</p>
+<p align="justify">The categories mentioned above may overlap. Some problems arise in such a way that their solution may fall on one or all of the categories. So The problem must be identified and solved as per requirement.</p>
