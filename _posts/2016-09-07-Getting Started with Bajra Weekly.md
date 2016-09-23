@@ -53,4 +53,4 @@ Example:
   ```
 - Once you are done, you can push it to your repo
 - Then submit your pull request to the master branch of repo **`bajratech/bajratech.github.io`** from your github repo
-- And lastly, inform **`Loomila Hada`** for cerification
+- And lastly, inform **`Loomila Hada`** for verification
