@@ -10,7 +10,8 @@ tags: sample
 ---
 
 
-- Clone the repo <a href="https://github.com/bajratech/bajratech.github.io.git" target="_blank">Bajra Weekly</a> and create a new relevant branch
+- Fork the repo <a href="https://github.com/bajratech/bajratech.github.io.git" target="_blank">Bajra Weekly</a> to your github account
+- Clone the repo from your account and create a new relevant branch
 - To create a new post, all you need to do is create a file in the **`_posts`** directory
 - Bajra Weekly requires blog post files to be named according to the following format:
 
@@ -26,7 +27,9 @@ tags: sample
   comments: true
   title: <title of the post>
   author: <your name>
-  nickname: <nickname>
+  nickname: <nickname(include nickname.jpg file in public/images/author/ directory)>
+  tags: <tags>
+  coverimg: <coverimg (include coverimg.jpg file in public/images/posts/ directory)>
   ---
 
   ```
@@ -41,10 +44,13 @@ Example:
   title: Getting Started with Bajra Weekly
   author: Ankur Maharjan
   nickname: ankur
+  tags: sample blog
+  coverimg: bajra
   ---
 
   The content of the post goes here.
 
   ```
-- Once you are done, you can push it to the repo and submit a pull request
-- You should submit your pull request to **`Loomila Hada`**
+- Once you are done, you can push it to your repo
+- Then submit your pull request to the master branch of repo **`bajratech/bajratech.github.io`** from your github repo
+- And lastly, inform **`Loomila Hada`** for cerification
