@@ -1,6 +1,6 @@
 ---
 layout : post
-number: 6
+number: 7
 bajra_weekly: false
 comments : true
 title : The PIECES framework for solving problem
