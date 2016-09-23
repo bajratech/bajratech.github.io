@@ -21,7 +21,8 @@ The event started with a speech of **Mr. Prakash Neupane**, where he spoke about
 
 Last but not the least, there was another speaker, **Mr. Mahabir Pun**, Magsaysay Award Winner and pioneer of wireless Internet in the villages of Myagdi District. He talked about the importance of Software Freedom Day in the context of Nepal. He also mentioned his new idea of establishing Nepal's first **National Innovation Center**. He described how the Innovation Center can help the youth in building the nation. In his entire session, he mostly talked about the Nation and how we can rebuild our  nation.
 
-<img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd2.jpg" width="300"><img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd3.jpg">
+<img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd2.jpg">
+<img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd3.jpg">
 
 
 **Hackathon**
