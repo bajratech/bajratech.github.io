@@ -59,3 +59,5 @@ Yesterday ***Sublime Text 3*** was released with new features. As a developer, I
             caption="Sublime Definition" %}
 
 [To know more new features](https://www.sublimetext.com/blog/articles/sublime-text-3-build-3124)
+
+Thank You Everyone!
