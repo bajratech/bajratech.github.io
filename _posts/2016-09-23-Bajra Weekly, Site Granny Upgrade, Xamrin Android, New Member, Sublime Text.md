@@ -12,7 +12,7 @@ coverimg: bajra
 
 Hello Everyone, what's on this weekend?
 
-Here at **Bajra**, we have started weekly blogging which has excited me to blog more. Today I am going to share my views and experiences in this blog. Firstly, thanks to all of our **BajraBeings** for providing this awesome platform to share our knowledge and experiences, and resuming our habit of writing.
+Here at **Bajra**, we have started weekly blogging, which has excited me to blog more. Today I am going to share my views and experiences in this blog. Firstly, thanks to all of our **BajraBeings** for providing this awesome platform to share our knowledge and experiences, and resuming our habit of writing.
 
 **Site Granny**<br>
 As we know **Bajra** has released it's own product ***Site Granny***, it was built on *Rails 4*, now it has been upgraded to *Rails 5* with a new feature ***Action Cable*** for web socket implementation.
@@ -22,7 +22,7 @@ As we know **Bajra** has released it's own product ***Site Granny***, it was bui
             caption="Beta Site Granny" %}
 
 **Welcome Back**<br>
-Our loving bro, `Sajan daii`, returend after a long leave. We all were missing him. Let us again fill the Bajra life with fun.
+Our loving bro, `Sajan daii`, returned after a long leave. We all were missing him. Let us again fill the Bajra life with fun.
 
 <img src="https://lh3.googleusercontent.com/JI2bQNinzQcQSSZaOYasku4FPJ5CudzpvWJ5--TmwgOXJqic1XS1G8EIvQdyGZoHObwd3QS-n6M71bTeEd8ABDlhg2kbhX28cnynr1e-QM9NqNlnpPdIMVVbgFj0EByc2ByNYZxW24270LqFGwJVl2Tq5O7snRcl-wqjiesviWJxMkIQqjrh9Zn4U8T6lyERiM7G4rREovgcyVY1TMEyjRzIs2PtHObqCe3DSMoIgzQ7AIHeRknHY6MXb0SrHUxwGZcsNlTrVjHBDYga3on_47yEwgOqBp4f03WueLKsQsDTX648NzKXdnFfnPQI6T-r29C8rklDUEhKeEGKXrOBaq4ywABU4-HG7tL8r80yg7jBmzOK_Wnk_vKNqWteoZj9AOWXX9f-X069jz2LBDmbl9JBee4zVeD3YX7pFPP8PfRKg9nX-FDNXLZr4Pqka7dQu5pM38KkKzfATLYBrIvFrfAZXMv3zUkmjO4jTeCBgIfNl4I4ZcSsP5VgqCO2ob_tXIyP_VRPwIT_-l8Zyd7VnqzaAhO6lSyGey9Uz1mqcyVWbkPAcC2uNpcM4xvmVZaAEsEytOESKluvGYpU_-sO417oHQXoZBNnCpWqs40CupvvpC89=w966-h644-no">
 
