@@ -22,9 +22,10 @@ The event started with speech of **Mr. Prakash Neupane**, where he spoke about w
 
 Last but not the least our next speaker was **Mr. Mahabir Pun**, Magsaysay Award Winner and pioneer of wireless Internet in the villages of Myagdi District.He talked about Software Freedom Day importance. He also mentioned his new idea of establishing Nepal's first **Nation Invention Center**. He described how the Invention Center can help youth and for building the nation. In his entire session, he only talked about Nation and how can we build nation.
 
-<img src="/public/images/posts/neupane.jpg" width="200"><img src="/public/images/posts/mahabir.jpg" width="200">
+<img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd2.jpg" width="200"><img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd3.jpg" width="200">
 
 While the main event was going on, we were busy on *Hackathon* on third floor. Almost 4 teams were participate in the hackathon. Our mentor Mr. Prakash Neupane and Hempal Shrestha gave us some idea to research on our projects before building the platform. Hempal Shrestha sir also crossed questioned us as why, who and how to use your project.
-![Hackathon Team](/public/images/posts/hackathon.jpg)
-<img src="/public/images/posts/team.jpg" width="100"><img src="/public/images/posts/hack2.jpg" width="100">
-<img src="/public/images/posts/hack3.jpg" width="100"><img src="/public/images/posts/stalls.jpg" width="100">
+
+![Hackathon Teams](/public/images/posts/hackathon.jpg)
+<img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14358850_1167847229942093_3384530679589811417_n.jpg?oh=361cff47cf66c461f69347c0065cf97a&oe=58674782" width="100"><img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd6.jpg" width="100">
+<img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14359266_1167846626608820_3299941801603975600_n.jpg?oh=4239f5c3934a1ea68d7c6d1ef929e0b1&oe=5880611E" width="100"><img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14390814_1167908763269273_1221310109130410600_n.jpg?oh=928960703c3974041e28913ad2f2975c&oe=586E6AF4" width="100">
