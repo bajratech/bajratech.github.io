@@ -9,7 +9,7 @@ author: Chandan Gupta Bhagat
 nickname: chandan
 ---
 
-<p align="justify">Where does the project ideas come from? The answer is they come from some of the problems, opportunities and directives. The short definition of problem, opportunity and directive defined for an organization is given below :</p>
+<p align="justify">Where do the project ideas come from? The answer is they come from some of the problems, opportunities and directives. The short definition of problem, opportunity and directive defined for an organization is given below :</p>
 
 <blockquote>
 <p align="justify">Problem: An undesirable situation that prevents the organization from fully achieving its goals or objectives</p>
