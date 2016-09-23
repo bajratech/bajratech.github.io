@@ -24,6 +24,7 @@ Last but not the least our next speaker was **Mr. Mahabir Pun**, Magsaysay Award
 
 <img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd2.jpg" width="200"><img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd3.jpg" width="200">
 
+
 **Hackathon**
 
 ![Hackathon Teams](/public/images/posts/hackathon.jpg)
@@ -32,3 +33,5 @@ While the main event was going on, we were busy on *Hackathon* on third floor. A
 
 <img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14358850_1167847229942093_3384530679589811417_n.jpg?oh=361cff47cf66c461f69347c0065cf97a&oe=58674782" width="100"><img src="http://roshan.info.np/wp-content/uploads/2016/09/sfd6.jpg" width="100">
 <img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14359266_1167846626608820_3299941801603975600_n.jpg?oh=4239f5c3934a1ea68d7c6d1ef929e0b1&oe=5880611E" width="100"><img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14390814_1167908763269273_1221310109130410600_n.jpg?oh=928960703c3974041e28913ad2f2975c&oe=586E6AF4" width="100"><img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14370403_1167581823301967_7988283618119696311_n.jpg?oh=45bd9b3fa01128a55dc09f9b201476b4&oe=5865FEBA" width="100"><img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14330063_1167907103269439_9216534624777253516_n.jpg?oh=b02653c9059d2ed297dda77b0365947b&oe=587D89F3" width="100"><img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14390977_1141174752642408_2219196054828407671_n.jpg?oh=93d06d3ed951571fb84fe52249e9e06b&oe=5869D23E">
+
+Thank You for reading this blog!
