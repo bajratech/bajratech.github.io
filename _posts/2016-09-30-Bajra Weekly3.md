@@ -31,11 +31,12 @@ We also celebrated `Ashok (The Great) dai`'s birthday this week.
 Warm birthday wishes to our dearest `Ashok dai!` You are a year older now but I think turning one year old is AWESOME! :D 
 ![Ashok dai's Birthday](/public/images/posts/ashok_dai1.jpg)
 ![Ashok dai's Birthday](/public/images/posts/ashok_dai2.jpg)
+
 Here’s all of us wishing you great years ahead filled with happiness and success.
 
 
-
-![Ashok dai's Birthday](/public/images/posts/iot.jpg)
+<hr />
+![Internet of Things](/public/images/posts/iot.jpg)
 
 Our `IoT` team were doing a research on different IoT Platforms `(Kaa IoT, AWS IoT, Azure IoT)` and I have thoroughly enjoyed learning about their power and potentials.
 It is indeed an interesting topic to go through.  You guys should  definitely check it out during your spare time. It's been told that by 2020, 20 billion devices will be connected to the IoT. 
