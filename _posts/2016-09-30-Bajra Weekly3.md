@@ -15,17 +15,22 @@ It has been a really exciting week for all of us.
 
 Let's start with the Friday fun activity. `Ayush Bati` and `Santosh Sah` organized a  game `Ping-Pong ball throw-catch`. It was exciting and fun and we all enjoyed it a lot. The game was intended for refreshment and to build communication among members.
 
+{% include image.html
+            img="/public/images/posts/first.jpg"
+            title="First winner team"
+            caption="First winner team" %}
 
-![First Winner team](/public/images/posts/first.jpg)
-<p style="text-align:center">First winner Team</p>
 
 
-![Second Winner team](/public/images/posts/second.jpg)
-<p style="text-align:center">Second Winner Team</p>
+{% include image.html
+            img="/public/images/posts/second.jpg"
+            title="Second winner team"
+            caption="Second winner team" %}
 
-![Third Winner team](/public/images/posts/third.jpg)
-<p style="text-align:center">Third Winner Teama</p>
-
+{% include image.html
+            img="/public/images/posts/third.jpg"
+            title="Third winner team"
+            caption="Third winner team" %}
 
 We also celebrated `Ashok (The Great) dai`'s birthday this week. 
 Warm birthday wishes to our dearest `Ashok dai!` You are a year older now but I think turning one year old is AWESOME! :D 
