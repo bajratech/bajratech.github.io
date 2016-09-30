@@ -21,11 +21,11 @@ I along with few of my Bajra colleagues took an unofficial outing to tranquil Ma
             title="Markhu, Kulekhani"
             caption="Markhu, Kulekhani" %}
 
-            
+
 ![alt text](http://1.bp.blogspot.com/_OBZ90VoJqNc/TSw_7rRQuHI/AAAAAAAAFqM/DgDgTAMvsnM/s1600/Stephen%2527s%2Bjungle%2Bpet.jpg "Leech")
 
 
-Finally, Bajra relased its own product `Site Granny`, which monitors website/web apps, after a year. Though it was released a week earlier, I feel like it is such an important event and it should not go unnoticed. We celebrated the release by cutting cakes and smearing it on the developer`s face (they deserved it).
+Finally, Bajra relased its own product <a href="https://sitegranny.com/landing" target="_blank">`Site Granny`</a>, which monitors website/web apps, after a year. Though it was released a week earlier, I feel like it is such an important event and it should not go unnoticed. We celebrated the release by cutting cakes and smearing it on the developer`s face (they deserved it).
 {% include image.html
             img="/public/images/posts/Site Granny.png"
             title="Site Granny"
