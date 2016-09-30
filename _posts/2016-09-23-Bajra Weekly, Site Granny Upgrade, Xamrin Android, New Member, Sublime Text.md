@@ -15,7 +15,7 @@ Hello Everyone, what's on this weekend?
 Here at **Bajra**, we have started weekly blogging, which has excited me to blog more. Today I am going to share my views and experiences in this blog. Firstly, thanks to all of our **BajraBeings** for providing this awesome platform to share our knowledge and experiences, and resuming our habit of writing.
 
 **Site Granny**<br>
-As we know **Bajra** has released it's own product ***Site Granny***, it was built on *Rails 4*, now it has been upgraded to *Rails 5* with a new feature ***Action Cable*** for web socket implementation.
+As we know **Bajra** has released it's own product <a href="https://sitegranny.com/landing" target="_blank">***Site Granny*** </a>, it was built on *Rails 4*, now it has been upgraded to *Rails 5* with a new feature ***Action Cable*** for web socket implementation.
 {% include image.html
             img="/public/images/posts/Site Granny.png"
             title="Site Granny"
