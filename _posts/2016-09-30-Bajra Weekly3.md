@@ -7,7 +7,7 @@ title : Bajra Weekly, Birthday, Friday fun
 tags : weekly bajra birthday friday-fun
 author: Dhurba Baral
 nickname: dhurba
-coverimg: first.jpg
+coverimg: first
 ---
 
 Another Friday is here, a little bit special because it’s the last Friday of September and the end of another good week here at `Bajra`. 
