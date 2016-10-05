@@ -12,7 +12,7 @@ coverimg: dashain
    
     “K ho dai tyo? Dhukkai le yeta ho yeta!” 
     
-Imagine this line in the voice of our `Sajan dai`. He used to say this everytime the guy in green brought food.  And then, **after** everybody was almost full, 
+Imagine this line in the voice of our `Sajan dai`. He said this everytime the guy in green brought food.  And then, **after** everybody was almost full, 
     
     “Euta chai yeta ho baaaki sab uta!” 
     
