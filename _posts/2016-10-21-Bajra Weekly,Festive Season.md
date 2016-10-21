@@ -20,7 +20,7 @@ If someone ever asked this question to **Sandesh dai** about his turn to organiz
 
 > "Khoi kaile kaile aba....pachhhiiii !!! Last ma ho ni mero paalo ta !! "
 
-But to everyone's astonishment, **Sandesh dai** voluntarily agreed to plan `Dashain Party` and `Dashain Game`. Of course, I assisted him in planning games and buying the gifts though :). We decided to plan `Obstacle Race`, in which there would be two teams and each team member would have to pass through a **Hula hoop** and then get inside a sack that reached up to their waist and hop to the finishing line, and the team that completes the race first would be the winning team. We bought gifts (face wash and face soaps) that could be very useful during festivals like Dashain where one needs to put a lot of tika. 
+But to everyone's astonishment, **Sandesh dai** voluntarily agreed to plan `Dashain Party` and `Dashain Game`. Of course, I assisted him in planning games and buying the gifts though :). We decided to plan `Obstacle Race`, in which there would be two teams and each team member would have to pass through a `Hula hoop` and then get inside a sack that reached up to their waist and hop to the finishing line, and the team that completes the race first would be the winning team. We bought gifts (face wash and face soaps) that could be very useful during festivals like Dashain where one needs to put a lot of tika. 
 
 {% include image.html
             img="/public/images/posts/WinningTeams.jpg"
