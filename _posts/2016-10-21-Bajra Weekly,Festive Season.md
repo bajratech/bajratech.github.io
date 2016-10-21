@@ -60,7 +60,7 @@ There is nothing new that has happened after Dashain break except for `Sushant- 
 
 Ummmm...I guess I forgot to mention something worth mentioning!! **Nishant Dai** has bought a new car and he has treated us all with `Chocolate Ice cream` today. `Congratulations and Thank you Dai!!`
 
-Lastly, the temperature has started to drop down so **Stay Warm** everyone!!
+Lastly, the temperature has started to drop down so `Stay Warm` everyone!!
 
 
-Adios!!
+`Adios!!`
