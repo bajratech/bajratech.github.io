@@ -1,11 +1,13 @@
 ---
 layout: post
+number: 5
+bajra_weekly: true
 comments: true
-title: Bajra Weekly
+title: Festive Season 
 author: Loomila Hada
 nickname: loomila
-tags: Bajra, Dashain, Dashain Party, Treat
-coverimg: coverpic
+tags: Bajra, Weekly, Dashain, Dashain Party, Treat
+coverimg: Coverpic
 ---
 
 > "Dashain pachhi hamro lagi ghar bata k k lyaune ta?"
@@ -47,7 +49,7 @@ Bajra has become a family now and I can't deny that I immensely missed it during
 There is nothing new that has happened after Dashain break except for **Sushant- the Garibb**'s new haircut , **Suman Dai**'s GoPro, my NUC and obviously the wait for **Tihar Holidays**.    
 
 {% include image.html
-            img="/public/images/posts/Sushant.jpg"
+            img="/public/images/posts/sushant.jpg"
             title="Sushant"
             caption="Sushant and his new hair cut" %}
 
