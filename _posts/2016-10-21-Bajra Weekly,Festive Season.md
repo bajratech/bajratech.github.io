@@ -30,7 +30,7 @@ We enjoyed the **Dashain  Party** with beer, our regular Guava juice, chhoyela a
 {% include image.html
             img="/public/images/posts/DashainGame.jpg"
             title="Obstacle Race"
-            caption="Long jumps that shall always be rembered :P " %}
+            caption="Long jumps that shall always be remembered :P " %}
 
 **Sushant - the garibb** is no longer "garibb" as he won everybody else's money who played cards on that day. This paragraph actually intends to make **Ankur Dai**, **Suman Dai**, **Milan Dai**,  **Degendra Dai** and **Prabhat Dai** jealous as they were not present while we enjoyed the treat and games.
 
