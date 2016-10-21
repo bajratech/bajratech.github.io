@@ -12,7 +12,7 @@ coverimg: Coverpic
 
 > "Dashain pachhi hamro lagi ghar bata k k lyaune ta?"
 
-Well,  the festive season is on and this was our major discussion on the last day at our office before Dashain Holidays. Some of our fellow `BajraBeings` had planned to visit their hometowns to celebrate Dashain and **we** were all discussing about what they'd bring for us from their home. We were all so excited about `Dashain` ( long holidays actually :P ) that the excitement filled our office with non-stop giggles, laughter and gossips, which I'm sure  could be heard even ten meters away.
+Well,  the festive season is on and this was the major discussion at our office on the last day before Dashain Holidays. Some of our fellow `BajraBeings` had planned to visit their hometowns to celebrate Dashain and **we** were all discussing about what they'd bring for us from their home. We were all so excited about `Dashain` ( long holidays actually :P ) that the excitement filled our office with non-stop giggles, laughter and gossips, which I'm sure  could be heard even ten meters away.
 
 > "Sandesh, timro game khelaune paalo kaile ho khoi?"
 
