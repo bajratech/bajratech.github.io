@@ -16,7 +16,7 @@ coverimg: tihar
 
 Just trying to grab all of your attention with a humor. Your bad if you didn't get the joke. :D
 
-Just like the other Friday Fun activities, last Friday's fun activity was also too much fun,  hosted by `Santosh Dhakal dai` and `Milan dai`. Though the game looked too simple, it was **too hard** to play. We were supposed to make geometric shapes as said with a rope being blindfolded. Then we had team meeting to make a strategy for team-win. But, in the meeting, there were two outsiders- __"Dhurba"__ & __"Aayush"__. We were unaware about them. They heard all our strategies, used it, won the first round and even went through to the Finals only to lose. Haha!
+Just like the other Friday Fun activities, last Friday's fun activity was also too much fun,  hosted by `Suman Dhakal dai` and `Milan dai`. Though the game looked too simple, it was **too hard** to play. We were supposed to make geometric shapes as said with a rope being blindfolded. Then we had team meeting to make a strategy for team-win. But, in the meeting, there were two outsiders- __"Dhurba"__ & __"Aayush"__. We were unaware about them. They heard all our strategies, used it, won the first round and even went through to the Finals only to lose. Haha!
 
 {% include image.html
             img="/public/images/posts/playing.jpg"
