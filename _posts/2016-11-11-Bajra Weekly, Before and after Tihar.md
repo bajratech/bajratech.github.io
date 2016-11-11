@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 number: 7
 bajra_weekly: true
@@ -21,6 +21,7 @@ coverimg: pizzagroup
 {% include image.html
             img="/public/images/posts/pizzapic1.jpg"
             title="Pizza!!"
+	    caption="Pizza...yummmmm!!!" 
              %}
 
 After a week long holidays and hangover of **Tihar**, we came back to office with fresh minds, enthusiasm and energy. Despite the transportation inconvenience all of us faced due to the Indian Presidential visit, we somehow managed to reach office. Happy to see each other after a week, we greeted each other with 
@@ -42,6 +43,7 @@ After tons of `kyaukyau` to `Sandesh dai`, the most awaited “office hoodies”
 {% include image.html
             img="/public/images/posts/officeidcard.jpg"
             title="Office Id card"
+	    caption="Our identity card... and btw that's Suman" 
              %}
 
 **Thank you `Bajra Technologies` for these really supercool stuffs !**
