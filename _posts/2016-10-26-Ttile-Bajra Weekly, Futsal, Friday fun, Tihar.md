@@ -28,7 +28,7 @@ Just like the other Friday Fun activities, last Friday's fun activity was also t
             title="Somewhat Winners!!"
             caption="Somewhat Winners!!" %}
 
-Everybody knew who the winner was. We lost the game, so I don't wanna talk about it. After lots of theories and practicals and maths and calculations, I still don't understand why we lost. Even the perfect square from geometry couldn't have beaten us. Apart from this, at Final round, `Ankur bro`'s team had `perfect Right Angled Triangle` but they also lost. I still don't get this logic.
+Everybody knew who the winner was. We lost the game, so I don't wanna talk about it. After lots of theories and practicals and maths and calculations, I still don't understand why we lost. Even the perfect square from geometry couldn't have beaten us. Apart from this, at Final round, Ankur bro's team had perfect Right Angled Triangle but they also lost. I still don't get this logic.
 
 Likewise, another fun day of the weekend is Futsal Day.  **Football is Life, Football is Love** Last Friday's Futsal had an intense battle, goals scored everywhere and scores were crazy. (26 -18 ) The final score of the match. It's not about the winning and losing, it's all about entertainment & having fun but we won the match eventually. :D
 
@@ -40,7 +40,6 @@ Likewise, another fun day of the weekend is Futsal Day.  **Football is Life, Foo
 Too bad that we won't be going for lunch this Friday. But, there's **PIZZA PARTY** today and it's more than good. I guess everyone is waiting for it. Sandesh dai told us to make a group of 3 and each group shall order 2 pizzas. But, I and Sushant were so cunning (like a fox) and made a MasterPlan (Haku Kale's accent) to make our group of only 2. Damn! we succeeded. Can't wait for the P-I-Z-Z-A.
 
 Days of Celebration and Happiness and Lights and Flowers is here. Wishing everybody Happy Tihar and 
-
-> ने. स. ११३७ या लसत्या सकल नेपा:मि पिन्त **न्हुदँया भिन्तुना** 
+>ने. स. ११३७ या लसत्या सकल नेपा:मि पिन्त **न्हुदँया भिन्तुना** 
 
 May this festival bring happiness, lots of love and make your life bright like those lights. `HAPPY TIHAR!`
