@@ -1,6 +1,6 @@
 ---
 layout: post
-number: 
+number: 7
 bajra_weekly: true
 comments: true
 title: Before and After Tihar
