@@ -9,8 +9,7 @@ author: Chandan Gupta Bhagat
 nickname: chandan
 ---
 
-Write your own Code Snippet for VS
-=
+
 Have you ever written bulky codes repeatedly that makes you feel lazy? Have you ever used snippets for fast coding? 
 
 Of course it would be a big **YES!!**. We often write **for** and the press **tab** twice to get following code 
@@ -34,20 +33,20 @@ Now its time to write our own code snippets. Just follow the instructions given 
         <?xml version="1.0" encoding="utf-8"?> 
         <CodeSnippets  
         xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">  
-        <CodeSnippet Format="1.0.0">  
-            <Header>  
-                <Title></Title>  
-    			<Shortcut></Shortcut>
-    			<Description></Description>
-	            <Author></Author>
-            </Header>  
-            <Snippet>  
-                <Code Language="csharp">  
-                    <![CDATA[ "code here" ]]>  
-                </Code>  
-            </Snippet>  
-        </CodeSnippet>  
-    </CodeSnippets>   
+			<CodeSnippet Format="1.0.0">  
+				<Header>  
+					<Title></Title>  
+					<Shortcut></Shortcut>
+					<Description></Description>
+					<Author></Author>
+				</Header>  
+				<Snippet>  
+					<Code Language="csharp">  
+						<![CDATA[ "code here" ]]>  
+					</Code>  
+				</Snippet>  
+			</CodeSnippet>  
+		</CodeSnippets>   
 
 	Things might get messy here so carefully put the values inside the tags.
 	As mentioned in the header, we have **Title**, **Shortcut**, **Description** and **Author**. 
