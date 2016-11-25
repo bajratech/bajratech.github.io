@@ -15,7 +15,7 @@ Bonjour de belles personnes, how u doing?
 
 > Friday. My second favourite F word after food.
 
-This week, `Bajra` was buzzing with the talk of shifting Bajra's office to a new location.Some were ecstatic and some were clutched because of the commute time. I was neutral because I welcome change, however, `Loomila` seemed to be a bit concerned. Luckily, `Bajra` will be shifting to `Gyaneshwor` and I want to thank, not the god, but `Bajra` for that.
+This week, `Bajra` was buzzing with the talk of shifting Bajra's office to a new location.Some were ecstatic and some were clutched because of the commute time. I was neutral because I welcome change, however, `Loomila` seemed to be a bit concerned. Luckily, `Bajra` will be shifting to `Gyaneshwor` and I do not want to thank god, but `Bajra` for that.
 {% include image.html
             img="/public/images/posts/new_office.jpg"
             title="New Office"
@@ -30,7 +30,7 @@ This week, `Bajra` was buzzing with the talk of shifting Bajra's office to a new
 		caption= "Water Heater"
              %}
 
-After the holidays of **Tihar**, some of the `BajraBeings` were on leave to prepare for their GRE.Their absence was like an apple pie without an apple but they are finally back again. `Ankur` daii was complaining about his score in GRE but I just want to tell him that he has scored amazing marks. Brother, I can not even pass an exam.
+After the holidays of **Tihar**, some of the `BajraBeings` were on leave to prepare for their GRE. Their absence was like an apple pie without an apple but they are finally back again. `Ankur` daii was complaining about his score in GRE but I just want to tell him that he has scored amazing marks. Brother, I can not even pass an exam.
 {% include image.html
             img="/public/images/posts/ankur.jpg"
             title="Ankur daii"
@@ -39,7 +39,7 @@ After the holidays of **Tihar**, some of the `BajraBeings` were on leave to prep
 
 > I am not clumsy, I am accident prone.
 
-Yesterday, `Samira` burnt herself. It is not her fault, she just wanted to bath with hot boiling water.I hope she will be fine real soon.
+Yesterday, `Samira` burnt herself. It is not her fault, she just wanted to bathe with hot boiling water. I hope she will be fine real soon.
 
 {% include image.html
             img="/public/images/posts/samira.jpg"
@@ -58,11 +58,11 @@ Today we went out for our lunch and it was very exciting.
              %}
 {% include image.html
             img="/public/images/posts/grp_2.jpg"
-            title="Are not we all beautiful?- part 2"
-		caption= "Are not we all beautiful?- part 2"
+            title="Are not we all beautiful? - Part 2"
+		caption= "Are not we all beautiful? - Part 2"
              %}
 
-Last but not the least, the `IOT Team` (`Me`, `Sajan` daii and `Dhurba`) will be working on another portal which I do not want to disclose here. Please keep followinig our weekly to know more about the project.
+Last but not the least, the `IOT Team` (`Me`, `Sajan` daii and `Dhurba`) will be working on another portal which I do not want to disclose here. Please keep follownig our weekly to know more about the project.
 
 So much have happened at Bajra this week. Now it is time for the `BajraBeings` to get their mind off the work and enjoy the weekends. Have a great day fellas.
 
