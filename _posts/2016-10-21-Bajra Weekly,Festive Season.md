@@ -6,7 +6,7 @@ comments: true
 title: Festive Season 
 author: Loomila Hada
 nickname: loomila
-tags: Bajra, Weekly, Dashain, Dashain Party, Treat
+tags: Bajra-Weekly Dashain Dashain-Party Treat
 coverimg: Coverpic
 ---
 

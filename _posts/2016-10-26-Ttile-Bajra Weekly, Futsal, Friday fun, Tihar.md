@@ -4,7 +4,7 @@ number: 6
 bajra_weekly: true
 comments : true
 title : Bajra Weekly, Futsal, Friday fun, Tihar
-tags : weekly bajra friday-fun futsal
+tags : Bajra-Weekly friday-fun futsal
 author: Rabin Maharjan
 nickname: rabin
 coverimg: tihar

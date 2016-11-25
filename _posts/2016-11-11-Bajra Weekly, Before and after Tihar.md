@@ -6,7 +6,7 @@ comments: true
 title: Before and After Tihar
 author: Prerana Paudel
 nickname: prerana
-tags: Bajra, Weekly, Tihar, PizzaParty
+tags: Bajra-Weekly Tihar PizzaParty
 coverimg: pizzagroup
 ---
 
