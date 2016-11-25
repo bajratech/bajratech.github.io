@@ -3,7 +3,7 @@ layout : post
 number: 4
 bajra_weekly: true
 comments : true
-title : Bajra Weekly, Happy Dashain
+title : Bajra-Weekly Happy-Dashain
 tags : bota bajratechnologies dashain
 author: Pragun Joshi
 nickname: pragun

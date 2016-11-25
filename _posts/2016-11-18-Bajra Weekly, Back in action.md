@@ -6,7 +6,7 @@ comments: true
 title: Bajra Weekly - Back in action
 author: Chandan Gupta Bhagat
 nickname: chandan
-tags: Bajra, Weekly,
+tags: Bajra-Weekly
 coverimg: GamingMini
 ---
 
