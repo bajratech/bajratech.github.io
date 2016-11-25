@@ -62,7 +62,7 @@ Today we went out for our lunch and it was very exciting.
 		caption= "Are not we all beautiful?- part 2"
              %}
 
-Last but not least, the `IOT Team` (`Me`, `Sajan` daii and `Dhurba`) will be working on another portal which I do not want to disclose here. Please keep followinig our weekly to know more about the project.
+Last but not the least, the `IOT Team` (`Me`, `Sajan` daii and `Dhurba`) will be working on another portal which I do not want to disclose here. Please keep followinig our weekly to know more about the project.
 
 So much have happened at Bajra this week. Now it is time for the `BajraBeings` to get their mind off the work and enjoy the weekends. Have a great day fellas.
 
